@@ -1,5 +1,15 @@
-# platinum
-platinum (PLAT) is a sustainable cryptocurrency  It is a decentralized, peer-to-peer transactional currency designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. platinum utilizes the Green Protocol, an energy efficient proof-of-stake algorithm inspired by BITCOIN/PIVX/DASH, can be mined on any computer, and will never require specialized mining equipment. The Green Protocol offers a simple solution to Bitcoin sustainability issues and provides a faster, more scalable blockchain that is better suited for daily transactional use.
+# Platinum
+Platinum (PLAT) is a sustainable cryptocurrency  It is a decentralized, peer-to-peer transactional currency designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. platinum utilizes the Green Protocol, an energy efficient proof-of-stake algorithm inspired by BITCOIN/PIVX/DASH, can be mined on any computer, and will never require specialized mining equipment. The Green Protocol offers a simple solution to Bitcoin sustainability issues and provides a faster, more scalable blockchain that is better suited for daily transactional use.
+
+## Desktop Wallet
+
+The image below shows the Platinum Core desktop wallet.
+
+<p align="center">
+    <img width="595" height="374" alt="image" src="https://github.com/user-attachments/assets/48f4f05a-a3ca-4379-a5e2-452627fa1ffb" />
+</p>
+
+## Coin Specs
 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
@@ -7,10 +17,6 @@ platinum (PLAT) is a sustainable cryptocurrency  It is a decentralized, peer-to-
   with a collateral of 3000 PLAT.
 
 Please reach out at dashpnew@gmail.com
-
-discord  https://discord.gg/ssT9QUn
-
-telegram https://t.me/Platinum_Plat
 
 ##  Coin Specs 
 ------------------------------------------------------
