@@ -6,9 +6,8 @@ Platinum (PLAT) is a sustainable cryptocurrency  It is a decentralized, peer-to-
 The image below shows the Platinum Core desktop wallet.
 
 <p align="center">
-    <img width="595" height="374" alt="image" src="https://github.com/user-attachments/assets/48f4f05a-a3ca-4379-a5e2-452627fa1ffb" />
-    <img width="722" height="374" alt="image" src="https://github.com/user-attachments/assets/9d92d2ea-8302-4909-9e42-67d64cf05643" />
-
+        <img width="722" height="374" alt="image" src="https://github.com/user-attachments/assets/9d92d2ea-8302-4909-9e42-67d64cf05643" />
+        <img width="595" height="374" alt="image" src="https://github.com/user-attachments/assets/48f4f05a-a3ca-4379-a5e2-452627fa1ffb" />
 </p>
 
 ## Coin Specs
